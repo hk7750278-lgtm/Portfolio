@@ -3,6 +3,10 @@
             padding: 0;
             scroll-behavior: smooth; /* Smooth Scroll */
         }
+        ::selection{
+            background-color: #fd5526;
+            color: #000;
+        }
 
         header {
             background-color: black;
